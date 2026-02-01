@@ -51,14 +51,3 @@
 - 🔹 **Data Analysis Projects** – Python, SQL, Power BI dashboards
 
 👉 Check my repositories below ⬇️
-
----
-
-### 🌐 Connect with Me
-- 📧 Email: tanishcode12@gmail.com  
-- 💼 LinkedIn: *(https://www.linkedin.com/in/tanish-shetty-7125993a3/)*  
-
----
-
-### 📊 GitHub Stats
-![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishcode-12&show_icons=true&theme=tokyonight)
